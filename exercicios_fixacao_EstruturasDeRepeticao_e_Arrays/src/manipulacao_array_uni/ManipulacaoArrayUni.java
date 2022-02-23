@@ -1,4 +1,4 @@
-package manipulcao_array_uni;
+package manipulacao_array_uni;
 
 import java.util.Scanner;
 
